@@ -1,5 +1,5 @@
 ---
-name: Skill Master Enterprise
+name: Skill.md
 description: Sistema completo para criação de websites premium no Lovable
 version: 1.0.0
 author: Allan
