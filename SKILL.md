@@ -1,3 +1,19 @@
+---
+name: Skill Master Enterprise
+description: Sistema completo para criação de websites premium no Lovable
+version: 1.0.0
+author: Allan
+tags:
+  - websites
+  - landing-pages
+  - ui
+  - ux
+  - gsap
+  - framer-motion
+---
+
+# SKILL MASTER ENTERPRISE
+
 SKILL MASTER — CRIAÇÃO DE SITES E LANDING PAGES PREMIUM PARA LOVABLE
 
 IDENTIDADE DA SKILL
